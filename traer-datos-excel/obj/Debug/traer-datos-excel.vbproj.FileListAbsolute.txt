@@ -1,0 +1,15 @@
+C:\Users\Walter\source\repos\traer-datos-excel\traer-datos-excel\bin\Debug\traer-datos-excel.exe.config
+C:\Users\Walter\source\repos\traer-datos-excel\traer-datos-excel\bin\Debug\traer-datos-excel.exe
+C:\Users\Walter\source\repos\traer-datos-excel\traer-datos-excel\bin\Debug\traer-datos-excel.pdb
+C:\Users\Walter\source\repos\traer-datos-excel\traer-datos-excel\bin\Debug\traer-datos-excel.xml
+C:\Users\Walter\source\repos\traer-datos-excel\traer-datos-excel\obj\Debug\traer-datos-excel.vbproj.AssemblyReference.cache
+C:\Users\Walter\source\repos\traer-datos-excel\traer-datos-excel\obj\Debug\traer-datos-excel.vbproj.ResolveComReference.cache
+C:\Users\Walter\source\repos\traer-datos-excel\traer-datos-excel\obj\Debug\traer_datos_excel.Form1.resources
+C:\Users\Walter\source\repos\traer-datos-excel\traer-datos-excel\obj\Debug\traer_datos_excel.Resources.resources
+C:\Users\Walter\source\repos\traer-datos-excel\traer-datos-excel\obj\Debug\traer-datos-excel.vbproj.GenerateResource.cache
+C:\Users\Walter\source\repos\traer-datos-excel\traer-datos-excel\obj\Debug\traer-datos-excel.vbproj.CoreCompileInputs.cache
+C:\Users\Walter\source\repos\traer-datos-excel\traer-datos-excel\obj\Debug\traer-datos-excel.exe
+C:\Users\Walter\source\repos\traer-datos-excel\traer-datos-excel\obj\Debug\traer-datos-excel.xml
+C:\Users\Walter\source\repos\traer-datos-excel\traer-datos-excel\obj\Debug\traer-datos-excel.pdb
+C:\Users\Walter\source\repos\traer-datos-excel\traer-datos-excel\obj\Debug\traer_datos_excel.frmDatos_excel.resources
+C:\Users\Walter\source\repos\traer-datos-excel\traer-datos-excel\obj\Debug\traer_datos_excel.frmMail.resources
